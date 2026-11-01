@@ -1,0 +1,167 @@
+event_type,release_date,scheduled,source_url,notes
+NFP,2020-01-10,True,https://www.bls.gov/schedule/2020/home.htm,Employment Situation for December 2019
+CPI,2020-01-14,True,https://www.bls.gov/schedule/2020/home.htm,Consumer Price Index for December 2019
+NFP,2020-02-07,True,https://www.bls.gov/schedule/2020/home.htm,Employment Situation for January 2020
+CPI,2020-02-13,True,https://www.bls.gov/schedule/2020/home.htm,Consumer Price Index for January 2020
+NFP,2020-03-06,True,https://www.bls.gov/schedule/2020/home.htm,Employment Situation for February 2020
+CPI,2020-03-11,True,https://www.bls.gov/schedule/2020/home.htm,Consumer Price Index for February 2020
+NFP,2020-04-03,True,https://www.bls.gov/schedule/2020/home.htm,Employment Situation for March 2020
+CPI,2020-04-10,True,https://www.bls.gov/schedule/2020/home.htm,Consumer Price Index for March 2020
+NFP,2020-05-08,True,https://www.bls.gov/schedule/2020/home.htm,Employment Situation for April 2020
+CPI,2020-05-12,True,https://www.bls.gov/schedule/2020/home.htm,Consumer Price Index for April 2020
+NFP,2020-06-05,True,https://www.bls.gov/schedule/2020/home.htm,Employment Situation for May 2020
+CPI,2020-06-10,True,https://www.bls.gov/schedule/2020/home.htm,Consumer Price Index for May 2020
+NFP,2020-07-02,True,https://www.bls.gov/schedule/2020/home.htm,Employment Situation for June 2020
+CPI,2020-07-14,True,https://www.bls.gov/schedule/2020/home.htm,Consumer Price Index for June 2020
+NFP,2020-08-07,True,https://www.bls.gov/schedule/2020/home.htm,Employment Situation for July 2020
+CPI,2020-08-12,True,https://www.bls.gov/schedule/2020/home.htm,Consumer Price Index for July 2020
+NFP,2020-09-04,True,https://www.bls.gov/schedule/2020/home.htm,Employment Situation for August 2020
+CPI,2020-09-11,True,https://www.bls.gov/schedule/2020/home.htm,Consumer Price Index for August 2020
+NFP,2020-10-02,True,https://www.bls.gov/schedule/2020/home.htm,Employment Situation for September 2020
+CPI,2020-10-13,True,https://www.bls.gov/schedule/2020/home.htm,Consumer Price Index for September 2020
+NFP,2020-11-06,True,https://www.bls.gov/schedule/2020/home.htm,Employment Situation for October 2020
+CPI,2020-11-12,True,https://www.bls.gov/schedule/2020/home.htm,Consumer Price Index for October 2020
+NFP,2020-12-04,True,https://www.bls.gov/schedule/2020/home.htm,Employment Situation for November 2020
+CPI,2020-12-10,True,https://www.bls.gov/schedule/2020/home.htm,Consumer Price Index for November 2020
+NFP,2021-01-08,True,https://www.bls.gov/schedule/2021/home.htm,Employment Situation for December 2020
+CPI,2021-01-13,True,https://www.bls.gov/schedule/2021/home.htm,Consumer Price Index for December 2020
+NFP,2021-02-05,True,https://www.bls.gov/schedule/2021/home.htm,Employment Situation for January 2021
+CPI,2021-02-10,True,https://www.bls.gov/schedule/2021/home.htm,Consumer Price Index for January 2021
+NFP,2021-03-05,True,https://www.bls.gov/schedule/2021/home.htm,Employment Situation for February 2021
+CPI,2021-03-10,True,https://www.bls.gov/schedule/2021/home.htm,Consumer Price Index for February 2021
+NFP,2021-04-02,True,https://www.bls.gov/schedule/2021/home.htm,Employment Situation for March 2021
+CPI,2021-04-13,True,https://www.bls.gov/schedule/2021/home.htm,Consumer Price Index for March 2021
+NFP,2021-05-07,True,https://www.bls.gov/schedule/2021/home.htm,Employment Situation for April 2021
+CPI,2021-05-12,True,https://www.bls.gov/schedule/2021/home.htm,Consumer Price Index for April 2021
+NFP,2021-06-04,True,https://www.bls.gov/schedule/2021/home.htm,Employment Situation for May 2021
+CPI,2021-06-10,True,https://www.bls.gov/schedule/2021/home.htm,Consumer Price Index for May 2021
+NFP,2021-07-02,True,https://www.bls.gov/schedule/2021/home.htm,Employment Situation for June 2021
+CPI,2021-07-13,True,https://www.bls.gov/schedule/2021/home.htm,Consumer Price Index for June 2021
+NFP,2021-08-06,True,https://www.bls.gov/schedule/2021/home.htm,Employment Situation for July 2021
+CPI,2021-08-11,True,https://www.bls.gov/schedule/2021/home.htm,Consumer Price Index for July 2021
+NFP,2021-09-03,True,https://www.bls.gov/schedule/2021/home.htm,Employment Situation for August 2021
+CPI,2021-09-14,True,https://www.bls.gov/schedule/2021/home.htm,Consumer Price Index for August 2021
+NFP,2021-10-08,True,https://www.bls.gov/schedule/2021/home.htm,Employment Situation for September 2021
+CPI,2021-10-13,True,https://www.bls.gov/schedule/2021/home.htm,Consumer Price Index for September 2021
+NFP,2021-11-05,True,https://www.bls.gov/schedule/2021/home.htm,Employment Situation for October 2021
+CPI,2021-11-10,True,https://www.bls.gov/schedule/2021/home.htm,Consumer Price Index for October 2021
+NFP,2021-12-03,True,https://www.bls.gov/schedule/2021/home.htm,Employment Situation for November 2021
+CPI,2021-12-10,True,https://www.bls.gov/schedule/2021/home.htm,Consumer Price Index for November 2021
+NFP,2022-01-07,True,https://www.bls.gov/schedule/2022/home.htm,Employment Situation for December 2021
+CPI,2022-01-12,True,https://www.bls.gov/schedule/2022/home.htm,Consumer Price Index for December 2021
+NFP,2022-02-04,True,https://www.bls.gov/schedule/2022/home.htm,Employment Situation for January 2022
+CPI,2022-02-10,True,https://www.bls.gov/schedule/2022/home.htm,Consumer Price Index for January 2022
+NFP,2022-03-04,True,https://www.bls.gov/schedule/2022/home.htm,Employment Situation for February 2022
+CPI,2022-03-10,True,https://www.bls.gov/schedule/2022/home.htm,Consumer Price Index for February 2022
+NFP,2022-04-01,True,https://www.bls.gov/schedule/2022/home.htm,Employment Situation for March 2022
+CPI,2022-04-12,True,https://www.bls.gov/schedule/2022/home.htm,Consumer Price Index for March 2022
+NFP,2022-05-06,True,https://www.bls.gov/schedule/2022/home.htm,Employment Situation for April 2022
+CPI,2022-05-11,True,https://www.bls.gov/schedule/2022/home.htm,Consumer Price Index for April 2022
+NFP,2022-06-03,True,https://www.bls.gov/schedule/2022/home.htm,Employment Situation for May 2022
+CPI,2022-06-10,True,https://www.bls.gov/schedule/2022/home.htm,Consumer Price Index for May 2022
+NFP,2022-07-08,True,https://www.bls.gov/schedule/2022/home.htm,Employment Situation for June 2022
+CPI,2022-07-13,True,https://www.bls.gov/schedule/2022/home.htm,Consumer Price Index for June 2022
+NFP,2022-08-05,True,https://www.bls.gov/schedule/2022/home.htm,Employment Situation for July 2022
+CPI,2022-08-10,True,https://www.bls.gov/schedule/2022/home.htm,Consumer Price Index for July 2022
+NFP,2022-09-02,True,https://www.bls.gov/schedule/2022/home.htm,Employment Situation for August 2022
+CPI,2022-09-13,True,https://www.bls.gov/schedule/2022/home.htm,Consumer Price Index for August 2022
+NFP,2022-10-07,True,https://www.bls.gov/schedule/2022/home.htm,Employment Situation for September 2022
+CPI,2022-10-13,True,https://www.bls.gov/schedule/2022/home.htm,Consumer Price Index for September 2022
+NFP,2022-11-04,True,https://www.bls.gov/schedule/2022/home.htm,Employment Situation for October 2022
+CPI,2022-11-10,True,https://www.bls.gov/schedule/2022/home.htm,Consumer Price Index for October 2022
+NFP,2022-12-02,True,https://www.bls.gov/schedule/2022/home.htm,Employment Situation for November 2022
+CPI,2022-12-13,True,https://www.bls.gov/schedule/2022/home.htm,Consumer Price Index for November 2022
+NFP,2023-01-06,True,https://www.bls.gov/schedule/2023/home.htm,Employment Situation for December 2022
+CPI,2023-01-12,True,https://www.bls.gov/schedule/2023/home.htm,Consumer Price Index for December 2022
+NFP,2023-02-03,True,https://www.bls.gov/schedule/2023/home.htm,Employment Situation for January 2023
+CPI,2023-02-14,True,https://www.bls.gov/schedule/2023/home.htm,Consumer Price Index for January 2023
+NFP,2023-03-10,True,https://www.bls.gov/schedule/2023/home.htm,Employment Situation for February 2023
+CPI,2023-03-14,True,https://www.bls.gov/schedule/2023/home.htm,Consumer Price Index for February 2023
+NFP,2023-04-07,True,https://www.bls.gov/schedule/2023/home.htm,Employment Situation for March 2023
+CPI,2023-04-12,True,https://www.bls.gov/schedule/2023/home.htm,Consumer Price Index for March 2023
+NFP,2023-05-05,True,https://www.bls.gov/schedule/2023/home.htm,Employment Situation for April 2023
+CPI,2023-05-10,True,https://www.bls.gov/schedule/2023/home.htm,Consumer Price Index for April 2023
+NFP,2023-06-02,True,https://www.bls.gov/schedule/2023/home.htm,Employment Situation for May 2023
+CPI,2023-06-13,True,https://www.bls.gov/schedule/2023/home.htm,Consumer Price Index for May 2023
+NFP,2023-07-07,True,https://www.bls.gov/schedule/2023/home.htm,Employment Situation for June 2023
+CPI,2023-07-12,True,https://www.bls.gov/schedule/2023/home.htm,Consumer Price Index for June 2023
+NFP,2023-08-04,True,https://www.bls.gov/schedule/2023/home.htm,Employment Situation for July 2023
+CPI,2023-08-10,True,https://www.bls.gov/schedule/2023/home.htm,Consumer Price Index for July 2023
+NFP,2023-09-01,True,https://www.bls.gov/schedule/2023/home.htm,Employment Situation for August 2023
+CPI,2023-09-13,True,https://www.bls.gov/schedule/2023/home.htm,Consumer Price Index for August 2023
+NFP,2023-10-06,True,https://www.bls.gov/schedule/2023/home.htm,Employment Situation for September 2023
+CPI,2023-10-12,True,https://www.bls.gov/schedule/2023/home.htm,Consumer Price Index for September 2023
+NFP,2023-11-03,True,https://www.bls.gov/schedule/2023/home.htm,Employment Situation for October 2023
+CPI,2023-11-14,True,https://www.bls.gov/schedule/2023/home.htm,Consumer Price Index for October 2023
+NFP,2023-12-08,True,https://www.bls.gov/schedule/2023/home.htm,Employment Situation for November 2023
+CPI,2023-12-12,True,https://www.bls.gov/schedule/2023/home.htm,Consumer Price Index for November 2023
+NFP,2024-01-05,True,https://www.bls.gov/schedule/2024/home.htm,Employment Situation for December 2023
+CPI,2024-01-11,True,https://www.bls.gov/schedule/2024/home.htm,Consumer Price Index for December 2023
+NFP,2024-02-02,True,https://www.bls.gov/schedule/2024/home.htm,Employment Situation for January 2024
+CPI,2024-02-13,True,https://www.bls.gov/schedule/2024/home.htm,Consumer Price Index for January 2024
+NFP,2024-03-08,True,https://www.bls.gov/schedule/2024/home.htm,Employment Situation for February 2024
+CPI,2024-03-12,True,https://www.bls.gov/schedule/2024/home.htm,Consumer Price Index for February 2024
+NFP,2024-04-05,True,https://www.bls.gov/schedule/2024/home.htm,Employment Situation for March 2024
+CPI,2024-04-10,True,https://www.bls.gov/schedule/2024/home.htm,Consumer Price Index for March 2024
+NFP,2024-05-03,True,https://www.bls.gov/schedule/2024/home.htm,Employment Situation for April 2024
+CPI,2024-05-15,True,https://www.bls.gov/schedule/2024/home.htm,Consumer Price Index for April 2024
+NFP,2024-06-07,True,https://www.bls.gov/schedule/2024/home.htm,Employment Situation for May 2024
+CPI,2024-06-12,True,https://www.bls.gov/schedule/2024/home.htm,Consumer Price Index for May 2024
+NFP,2024-07-05,True,https://www.bls.gov/schedule/2024/home.htm,Employment Situation for June 2024
+CPI,2024-07-11,True,https://www.bls.gov/schedule/2024/home.htm,Consumer Price Index for June 2024
+NFP,2024-08-02,True,https://www.bls.gov/schedule/2024/home.htm,Employment Situation for July 2024
+CPI,2024-08-14,True,https://www.bls.gov/schedule/2024/home.htm,Consumer Price Index for July 2024
+NFP,2024-09-06,True,https://www.bls.gov/schedule/2024/home.htm,Employment Situation for August 2024
+CPI,2024-09-11,True,https://www.bls.gov/schedule/2024/home.htm,Consumer Price Index for August 2024
+NFP,2024-10-04,True,https://www.bls.gov/schedule/2024/home.htm,Employment Situation for September 2024
+CPI,2024-10-10,True,https://www.bls.gov/schedule/2024/home.htm,Consumer Price Index for September 2024
+NFP,2024-11-01,True,https://www.bls.gov/schedule/2024/home.htm,Employment Situation for October 2024
+CPI,2024-11-13,True,https://www.bls.gov/schedule/2024/home.htm,Consumer Price Index for October 2024
+NFP,2024-12-06,True,https://www.bls.gov/schedule/2024/home.htm,Employment Situation for November 2024
+CPI,2024-12-11,True,https://www.bls.gov/schedule/2024/home.htm,Consumer Price Index for November 2024
+NFP,2025-01-10,True,https://www.bls.gov/schedule/2025/home.htm,Employment Situation for December 2024
+CPI,2025-01-15,True,https://www.bls.gov/schedule/2025/home.htm,Consumer Price Index for December 2024
+NFP,2025-02-07,True,https://www.bls.gov/schedule/2025/home.htm,Employment Situation for January 2025
+CPI,2025-02-12,True,https://www.bls.gov/schedule/2025/home.htm,Consumer Price Index for January 2025
+NFP,2025-03-07,True,https://www.bls.gov/schedule/2025/home.htm,Employment Situation for February 2025
+CPI,2025-03-12,True,https://www.bls.gov/schedule/2025/home.htm,Consumer Price Index for February 2025
+NFP,2025-04-04,True,https://www.bls.gov/schedule/2025/home.htm,Employment Situation for March 2025
+CPI,2025-04-10,True,https://www.bls.gov/schedule/2025/home.htm,Consumer Price Index for March 2025
+NFP,2025-05-02,True,https://www.bls.gov/schedule/2025/home.htm,Employment Situation for April 2025
+CPI,2025-05-13,True,https://www.bls.gov/schedule/2025/home.htm,Consumer Price Index for April 2025
+NFP,2025-06-06,True,https://www.bls.gov/schedule/2025/home.htm,Employment Situation for May 2025
+CPI,2025-06-11,True,https://www.bls.gov/schedule/2025/home.htm,Consumer Price Index for May 2025
+NFP,2025-07-03,True,https://www.bls.gov/schedule/2025/home.htm,Employment Situation for June 2025
+CPI,2025-07-15,True,https://www.bls.gov/schedule/2025/home.htm,Consumer Price Index for June 2025
+NFP,2025-08-01,True,https://www.bls.gov/schedule/2025/home.htm,Employment Situation for July 2025
+CPI,2025-08-12,True,https://www.bls.gov/schedule/2025/home.htm,Consumer Price Index for July 2025
+NFP,2025-09-05,True,https://www.bls.gov/schedule/2025/home.htm,Employment Situation for August 2025
+CPI,2025-09-11,True,https://www.bls.gov/schedule/2025/home.htm,Consumer Price Index for August 2025
+CPI,2025-10-24,True,https://www.bls.gov/schedule/2025/home.htm,Consumer Price Index for September 2025
+NFP,2025-11-20,True,https://www.bls.gov/schedule/2025/home.htm,Employment Situation for September 2025
+NFP,2025-12-16,True,https://www.bls.gov/schedule/2025/home.htm,Employment Situation for November 2025
+CPI,2025-12-18,True,https://www.bls.gov/schedule/2025/home.htm,Consumer Price Index for November 2025
+NFP,2026-01-09,True,https://www.bls.gov/schedule/2026/home.htm,Employment Situation for December 2025
+CPI,2026-01-13,True,https://www.bls.gov/schedule/2026/home.htm,Consumer Price Index for December 2025
+NFP,2026-02-11,True,https://www.bls.gov/schedule/2026/home.htm,Employment Situation for January 2026
+CPI,2026-02-13,True,https://www.bls.gov/schedule/2026/home.htm,Consumer Price Index for January 2026
+NFP,2026-03-06,True,https://www.bls.gov/schedule/2026/home.htm,Employment Situation for February 2026
+CPI,2026-03-11,True,https://www.bls.gov/schedule/2026/home.htm,Consumer Price Index for February 2026
+NFP,2026-04-03,True,https://www.bls.gov/schedule/2026/home.htm,Employment Situation for March 2026
+CPI,2026-04-10,True,https://www.bls.gov/schedule/2026/home.htm,Consumer Price Index for March 2026
+NFP,2026-05-08,True,https://www.bls.gov/schedule/2026/home.htm,Employment Situation for April 2026
+CPI,2026-05-12,True,https://www.bls.gov/schedule/2026/home.htm,Consumer Price Index for April 2026
+NFP,2026-06-05,True,https://www.bls.gov/schedule/2026/home.htm,Employment Situation for May 2026
+CPI,2026-06-10,True,https://www.bls.gov/schedule/2026/home.htm,Consumer Price Index for May 2026
+NFP,2026-07-02,True,https://www.bls.gov/schedule/2026/home.htm,Employment Situation for June 2026
+CPI,2026-07-14,True,https://www.bls.gov/schedule/2026/home.htm,Consumer Price Index for June 2026
+NFP,2026-08-07,True,https://www.bls.gov/schedule/2026/home.htm,Employment Situation for July 2026
+CPI,2026-08-12,True,https://www.bls.gov/schedule/2026/home.htm,Consumer Price Index for July 2026
+NFP,2026-09-04,True,https://www.bls.gov/schedule/2026/home.htm,Employment Situation for August 2026
+CPI,2026-09-11,True,https://www.bls.gov/schedule/2026/home.htm,Consumer Price Index for August 2026
+NFP,2026-10-02,True,https://www.bls.gov/schedule/2026/home.htm,Employment Situation for September 2026
+CPI,2026-10-14,True,https://www.bls.gov/schedule/2026/home.htm,Consumer Price Index for September 2026
+NFP,2026-11-06,True,https://www.bls.gov/schedule/2026/home.htm,Employment Situation for October 2026
+CPI,2026-11-10,True,https://www.bls.gov/schedule/2026/home.htm,Consumer Price Index for October 2026
+NFP,2026-12-04,True,https://www.bls.gov/schedule/2026/home.htm,Employment Situation for November 2026
+CPI,2026-12-10,True,https://www.bls.gov/schedule/2026/home.htm,Consumer Price Index for November 2026
